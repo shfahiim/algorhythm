@@ -1,0 +1,618 @@
+{
+  "Departures - Max LL": {
+    "track_title": "Departures - Max LL",
+    "filename": "2nF0Y4YSUtk.wav",
+    "duration_seconds": 199.27,
+    "sample_rate": 44100,
+    "overall_rms_db": -14.68,
+    "peak_level": 0.972,
+    "crest_factor": 5.27,
+    "stereo_width_ratio": 0.827,
+    "rhythm_tempo": {
+      "primary_bpm": 123.0,
+      "half_bpm": 61.5,
+      "double_bpm": 246.0,
+      "groove_type": "Steady Pulse / Midtempo"
+    },
+    "tonality_harmony": {
+      "detected_key": "F Major",
+      "confidence_correlation": 0.843,
+      "top_key_candidates": [
+        {
+          "key": "F Major",
+          "corr": 0.843
+        },
+        {
+          "key": "D Minor",
+          "corr": 0.782
+        },
+        {
+          "key": "A Minor",
+          "corr": 0.677
+        },
+        {
+          "key": "C Major",
+          "corr": 0.534
+        },
+        {
+          "key": "A# Major",
+          "corr": 0.497
+        }
+      ],
+      "global_pitch_distribution": {
+        "C": 0.1426,
+        "C#": 0.0418,
+        "D": 0.135,
+        "D#": 0.027,
+        "E": 0.0721,
+        "F": 0.1248,
+        "F#": 0.0454,
+        "G": 0.0653,
+        "G#": 0.0384,
+        "A": 0.1456,
+        "A#": 0.1141,
+        "B": 0.0479
+      }
+    },
+    "spectral_timbre": {
+      "mean_spectral_centroid_hz": 2181.4,
+      "centroid_std_hz": 1264.6,
+      "mean_spectral_rolloff_85pct_hz": 4388.4,
+      "energy_band_distribution_pct": {
+        "sub_bass_20_60Hz": 21.34785996100579,
+        "bass_60_250Hz": 36.24463128529013,
+        "low_mids_250_1000Hz": 27.34695218897038,
+        "high_mids_1000_4000Hz": 13.847101162283423,
+        "presence_4000_10000Hz": 0.6767186465263318,
+        "air_10000_20000Hz": 0.05567842140997287
+      },
+      "tonal_balance": "Bright, Crisp, Modern"
+    },
+    "chord_sequence_sample": [
+      {
+        "time_sec": 0.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "E",
+          "A",
+          "C"
+        ]
+      },
+      {
+        "time_sec": 4.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "A",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "time_sec": 8.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "C",
+          "E",
+          "A"
+        ]
+      },
+      {
+        "time_sec": 12.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 16.0,
+        "detected_chord": "C",
+        "top_pitch_classes": [
+          "C",
+          "B",
+          "G"
+        ]
+      },
+      {
+        "time_sec": 20.0,
+        "detected_chord": "Em",
+        "top_pitch_classes": [
+          "E",
+          "F#",
+          "G"
+        ]
+      },
+      {
+        "time_sec": 24.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "C",
+          "A",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 28.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "C",
+          "A",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 32.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "C",
+          "E",
+          "D"
+        ]
+      },
+      {
+        "time_sec": 36.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "C",
+          "A",
+          "B"
+        ]
+      },
+      {
+        "time_sec": 40.0,
+        "detected_chord": "C",
+        "top_pitch_classes": [
+          "C",
+          "B",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 44.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "A",
+          "C",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 48.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "A",
+          "E",
+          "C"
+        ]
+      },
+      {
+        "time_sec": 52.0,
+        "detected_chord": "Am",
+        "top_pitch_classes": [
+          "C",
+          "A",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 56.0,
+        "detected_chord": "C",
+        "top_pitch_classes": [
+          "C",
+          "D",
+          "F"
+        ]
+      },
+      {
+        "time_sec": 60.0,
+        "detected_chord": "F",
+        "top_pitch_classes": [
+          "C",
+          "F",
+          "G"
+        ]
+      }
+    ],
+    "energy_curve_sample": [
+      {
+        "time": 0.0,
+        "rms_db": -30.4
+      },
+      {
+        "time": 8.0,
+        "rms_db": -30.7
+      },
+      {
+        "time": 16.0,
+        "rms_db": -29.0
+      },
+      {
+        "time": 24.0,
+        "rms_db": -32.7
+      },
+      {
+        "time": 32.0,
+        "rms_db": -14.1
+      },
+      {
+        "time": 40.0,
+        "rms_db": -16.1
+      },
+      {
+        "time": 48.0,
+        "rms_db": -11.7
+      },
+      {
+        "time": 56.0,
+        "rms_db": -10.3
+      },
+      {
+        "time": 64.0,
+        "rms_db": -15.0
+      },
+      {
+        "time": 72.0,
+        "rms_db": -16.1
+      },
+      {
+        "time": 80.0,
+        "rms_db": -16.7
+      },
+      {
+        "time": 88.0,
+        "rms_db": -14.6
+      },
+      {
+        "time": 96.0,
+        "rms_db": -13.6
+      },
+      {
+        "time": 104.0,
+        "rms_db": -13.5
+      },
+      {
+        "time": 112.0,
+        "rms_db": -13.2
+      },
+      {
+        "time": 120.0,
+        "rms_db": -13.3
+      },
+      {
+        "time": 128.0,
+        "rms_db": -11.9
+      },
+      {
+        "time": 136.0,
+        "rms_db": -12.1
+      },
+      {
+        "time": 144.0,
+        "rms_db": -11.1
+      },
+      {
+        "time": 152.0,
+        "rms_db": -12.1
+      },
+      {
+        "time": 160.0,
+        "rms_db": -13.5
+      },
+      {
+        "time": 168.0,
+        "rms_db": -19.6
+      },
+      {
+        "time": 176.0,
+        "rms_db": -31.2
+      },
+      {
+        "time": 184.0,
+        "rms_db": -41.3
+      },
+      {
+        "time": 192.0,
+        "rms_db": -63.5
+      }
+    ]
+  },
+  "Passerby - Max LL": {
+    "track_title": "Passerby - Max LL",
+    "filename": "-p2AW5gS6tU.wav",
+    "duration_seconds": 157.22,
+    "sample_rate": 44100,
+    "overall_rms_db": -16.55,
+    "peak_level": 0.994,
+    "crest_factor": 6.68,
+    "stereo_width_ratio": 0.834,
+    "rhythm_tempo": {
+      "primary_bpm": 143.6,
+      "half_bpm": 71.8,
+      "double_bpm": 287.2,
+      "groove_type": "Steady Pulse / Midtempo"
+    },
+    "tonality_harmony": {
+      "detected_key": "A Major",
+      "confidence_correlation": 0.764,
+      "top_key_candidates": [
+        {
+          "key": "A Major",
+          "corr": 0.764
+        },
+        {
+          "key": "F# Minor",
+          "corr": 0.699
+        },
+        {
+          "key": "D Major",
+          "corr": 0.542
+        },
+        {
+          "key": "A Minor",
+          "corr": 0.477
+        },
+        {
+          "key": "C# Minor",
+          "corr": 0.416
+        }
+      ],
+      "global_pitch_distribution": {
+        "C": 0.0837,
+        "C#": 0.1198,
+        "D": 0.1028,
+        "D#": 0.0395,
+        "E": 0.0778,
+        "F": 0.0626,
+        "F#": 0.0928,
+        "G": 0.0662,
+        "G#": 0.0861,
+        "A": 0.1497,
+        "A#": 0.0634,
+        "B": 0.0556
+      }
+    },
+    "spectral_timbre": {
+      "mean_spectral_centroid_hz": 1924.8,
+      "centroid_std_hz": 1068.5,
+      "mean_spectral_rolloff_85pct_hz": 3847.7,
+      "energy_band_distribution_pct": {
+        "sub_bass_20_60Hz": 11.199895307149443,
+        "bass_60_250Hz": 49.26717110748493,
+        "low_mids_250_1000Hz": 26.85421838179342,
+        "high_mids_1000_4000Hz": 11.315401489437617,
+        "presence_4000_10000Hz": 1.2578241039147766,
+        "air_10000_20000Hz": 0.06190138463625812
+      },
+      "tonal_balance": "Bright, Crisp, Modern"
+    },
+    "chord_sequence_sample": [
+      {
+        "time_sec": 0.0,
+        "detected_chord": "F#",
+        "top_pitch_classes": [
+          "F#",
+          "C#",
+          "E"
+        ]
+      },
+      {
+        "time_sec": 4.0,
+        "detected_chord": "F#",
+        "top_pitch_classes": [
+          "F#",
+          "C#",
+          "G"
+        ]
+      },
+      {
+        "time_sec": 8.0,
+        "detected_chord": "F#m",
+        "top_pitch_classes": [
+          "F#",
+          "C#",
+          "A"
+        ]
+      },
+      {
+        "time_sec": 12.0,
+        "detected_chord": "F#m",
+        "top_pitch_classes": [
+          "F#",
+          "C#",
+          "A"
+        ]
+      },
+      {
+        "time_sec": 16.0,
+        "detected_chord": "C#",
+        "top_pitch_classes": [
+          "G#",
+          "C#",
+          "C"
+        ]
+      },
+      {
+        "time_sec": 20.0,
+        "detected_chord": "C#",
+        "top_pitch_classes": [
+          "A",
+          "G#",
+          "G"
+        ]
+      },
+      {
+        "time_sec": 24.0,
+        "detected_chord": "F#m",
+        "top_pitch_classes": [
+          "A",
+          "C#",
+          "F#"
+        ]
+      },
+      {
+        "time_sec": 28.0,
+        "detected_chord": "F#m",
+        "top_pitch_classes": [
+          "A",
+          "F#",
+          "C#"
+        ]
+      },
+      {
+        "time_sec": 32.0,
+        "detected_chord": "C#",
+        "top_pitch_classes": [
+          "C#",
+          "G#",
+          "A"
+        ]
+      },
+      {
+        "time_sec": 36.0,
+        "detected_chord": "C#",
+        "top_pitch_classes": [
+          "A",
+          "C#",
+          "G#"
+        ]
+      },
+      {
+        "time_sec": 40.0,
+        "detected_chord": "F#m",
+        "top_pitch_classes": [
+          "C#",
+          "F#",
+          "A"
+        ]
+      },
+      {
+        "time_sec": 44.0,
+        "detected_chord": "C#",
+        "top_pitch_classes": [
+          "G#",
+          "A",
+          "C#"
+        ]
+      },
+      {
+        "time_sec": 48.0,
+        "detected_chord": "G#",
+        "top_pitch_classes": [
+          "G#",
+          "A",
+          "G"
+        ]
+      },
+      {
+        "time_sec": 52.0,
+        "detected_chord": "F#m",
+        "top_pitch_classes": [
+          "C#",
+          "D",
+          "A"
+        ]
+      },
+      {
+        "time_sec": 56.0,
+        "detected_chord": "A",
+        "top_pitch_classes": [
+          "C#",
+          "E",
+          "D"
+        ]
+      },
+      {
+        "time_sec": 60.0,
+        "detected_chord": "C#m",
+        "top_pitch_classes": [
+          "C#",
+          "E",
+          "F#"
+        ]
+      }
+    ],
+    "energy_curve_sample": [
+      {
+        "time": 0.0,
+        "rms_db": -31.9
+      },
+      {
+        "time": 8.0,
+        "rms_db": -19.9
+      },
+      {
+        "time": 16.0,
+        "rms_db": -22.8
+      },
+      {
+        "time": 24.0,
+        "rms_db": -19.9
+      },
+      {
+        "time": 32.0,
+        "rms_db": -19.7
+      },
+      {
+        "time": 40.0,
+        "rms_db": -13.4
+      },
+      {
+        "time": 48.0,
+        "rms_db": -13.0
+      },
+      {
+        "time": 56.0,
+        "rms_db": -21.3
+      },
+      {
+        "time": 64.0,
+        "rms_db": -23.0
+      },
+      {
+        "time": 72.0,
+        "rms_db": -20.3
+      },
+      {
+        "time": 80.0,
+        "rms_db": -19.2
+      },
+      {
+        "time": 88.0,
+        "rms_db": -13.6
+      },
+      {
+        "time": 96.0,
+        "rms_db": -13.8
+      },
+      {
+        "time": 104.0,
+        "rms_db": -13.1
+      },
+      {
+        "time": 112.0,
+        "rms_db": -13.1
+      },
+      {
+        "time": 120.0,
+        "rms_db": -17.9
+      },
+      {
+        "time": 128.0,
+        "rms_db": -29.2
+      },
+      {
+        "time": 136.0,
+        "rms_db": -32.5
+      },
+      {
+        "time": 144.0,
+        "rms_db": -58.1
+      },
+      {
+        "time": 152.0,
+        "rms_db": -90.1
+      }
+    ]
+  }
+}
